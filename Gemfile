@@ -69,3 +69,4 @@ gem 'popper_js', '~> 1.14.5'
 gem 'sassc'
 gem 'devise'
 gem 'simple_form'
+gem 'rubocop', '~> 0.79.0', require: false
